@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5e775513-80e7-4308-af39-c017158d3b47" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/designpatterns/prototype/Bicycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/designpatterns/prototype/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/designpatterns/prototype/ClientTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/designpatterns/prototype/Vehicle.java" afterDir="false" />
+    <list default="true" id="5e775513-80e7-4308-af39-c017158d3b47" name="Changes" comment="adding code for Prototype pattern">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +60,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "advanced.settings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -88,8 +84,22 @@
       <workItem from="1710888731035" duration="499000" />
       <workItem from="1710889254877" duration="132000" />
       <workItem from="1710889401470" duration="1295000" />
-      <workItem from="1710896896168" duration="922000" />
+      <workItem from="1710896896168" duration="1012000" />
+      <workItem from="1710902342458" duration="157000" />
+      <workItem from="1710902518006" duration="262000" />
+      <workItem from="1710902795788" duration="53000" />
+      <workItem from="1710978276931" duration="134000" />
+      <workItem from="1710978425950" duration="119000" />
     </task>
+    <task id="LOCAL-00001" summary="adding code for Prototype pattern">
+      <option name="closed" value="true" />
+      <created>1710897899627</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710897899628</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,5 +107,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="adding code for Prototype pattern" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding code for Prototype pattern" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
