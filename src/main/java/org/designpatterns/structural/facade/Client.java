@@ -1,0 +1,10 @@
+package org.designpatterns.structural.facade;
+
+public class Client {
+
+  public static void main(String[] args) {
+    NetworkAccessFacade networkAccessFacade = new NetworkAccessFacade();
+    networkAccessFacade.communicate();
+  }
+
+}
